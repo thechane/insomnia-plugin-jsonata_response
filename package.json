@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-jsonata_response",
+  "version": "0.0.1",
+  "insomnia": {
+    "name": "jsonata_response",
+    "displayName": "JSONata Response tag Plugin",
+    "description": "A stripped down version of the Response Template tag (https://www.npmjs.com/package/insomnia-plugin-response) that uses JSONata (https://jsonata.org/) instead of JSONpath",
+    "images": {
+      "icon": "icon.svg",
+      "cover": "cover.svg"
+    }
+  },
+  "main": "main.js",
+  "keywords": [
+    "JSONata",
+    "insomnia-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getomni/insomnia.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "^0.4.19",
+    "jsonata": "^1.8.4"
+  }
+}
