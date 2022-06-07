@@ -11,9 +11,9 @@
     },
     "unlisted": false,
     "publisher": {
-			"name": "Stuart Chaney",
-			"icon": "https://www.gravatar.com/avatar/8f8030d7bf0b2cb8a2c98e596a53c0d3"
-		},
+	"name": "Stuart Chaney",
+	"icon": "https://www.gravatar.com/avatar/8f8030d7bf0b2cb8a2c98e596a53c0d3"
+    },
   },
   "main": "main.js",
   "keywords": [
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thechane/insomnia-plugin-jsonata_response.git"
+    "url": "https://github.com/thechane/insomnia-plugin-jsonata_response.git"
   },
   "license": "MIT",
   "dependencies": {
