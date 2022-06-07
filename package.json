@@ -8,7 +8,12 @@
     "images": {
       "icon": "icon.svg",
       "cover": "cover.svg"
-    }
+    },
+    "unlisted": false,
+    "publisher": {
+			"name": "Stuart Chaney",
+			"icon": "https://www.gravatar.com/avatar/8f8030d7bf0b2cb8a2c98e596a53c0d3"
+		},
   },
   "main": "main.js",
   "keywords": [
